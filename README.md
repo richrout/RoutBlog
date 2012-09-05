@@ -18,3 +18,4 @@ Things to try
 4. Push to the branch (`git push origin routblog`)
 5. Open a [Pull Request][1]
 6. Enjoy a refreshing Pepsi Cola and wait
+7. Add another step
