@@ -20,7 +20,6 @@ Things to try
 6. Enjoy a refreshing Pepsi Cola and wait
 7. Add another step
 
-I added this
-------------
+Screw you rich!
 
 Yes I did
