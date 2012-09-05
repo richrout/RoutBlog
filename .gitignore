@@ -100,6 +100,7 @@ publish
 [Bb]in
 [Oo]bj
 sql
+logs
 TestResults
 *.Cache
 ClientBin
@@ -141,7 +142,6 @@ build
 eggs
 parts
 bin
-obj
 var
 sdist
 develop-eggs
