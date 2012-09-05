@@ -142,7 +142,6 @@ build
 eggs
 parts
 bin
-obj
 var
 sdist
 develop-eggs
