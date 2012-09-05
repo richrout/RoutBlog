@@ -12,9 +12,8 @@
 	<div class="navbar navbar-inverse navbar-fixed-top">
 		<div class="navbar-inner">
 			<div class="container">
+				<a class="brand brand-inverse pull-right"><%siteNameLink%></a>
 				<div class="nav-collapse collapse">
-					<a class="brand brand-inverse"><%siteNameLink%></a>
-					
 					<ul class="nav">
 						<li><a href="/blog">Home</a></li>
 					</ul>
@@ -25,13 +24,15 @@
 </header>
 <div class="container">
 	<h2><%description%></h2> 
-	<div class="navbar">
-		<%newtelligence.adminBar()%>
-	</div>
+	
+	<%newtelligence.adminBar()%>
+	
 	<div class="row">
 		<div class="span8">
 			<%drawCategoryPaging()%>
+			
 			<%bodytext%>
+			
 			<div class="post-paging">
 				<div class="previous-posts"><% DrawPostPagingPrevious() %></div>
 				<div class="next-posts"><% DrawPostPagingNext() %></div>

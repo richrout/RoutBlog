@@ -1,2 +1,2 @@
-<div class="date"><%archiveLink%>&nbsp;<%longDate%></div>
-<div class="newsItems"><%Items%></div>
+<h2><%archiveLink%>&nbsp;<%longDate%></h2>
+<section><%Items%></section>

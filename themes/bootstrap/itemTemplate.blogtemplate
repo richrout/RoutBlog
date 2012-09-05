@@ -1,9 +1,9 @@
-<%PreviousLink("&laquo;&nbsp;",40)%><%MainPageentryLink("Main", "|")%><%NextLink("&nbsp;&raquo;",40)%>
-<div class="itemBoxStyle">
-	<div class="itemTitleStyle">
+<h2><%PreviousLink("&laquo;&nbsp;",40)%><%MainPageentryLink("Main", "")%><%NextLink("&nbsp;&raquo;",40)%></h2>
+<div class="well">
+	<h3>
 		<%ItemTitle%>
-	</div>
-	<div class="itemBodyStyle">
+	</h3>
+	<div>
 		<%ItemBody%>
 	</div>
 	<div class="itemCategoryLinksStyle">
@@ -21,6 +21,5 @@
 		<%relatedPostList%>
 		<%trackbackList%>
 		<%enclosure%>
-		<br clear="all" />
 	</div>
 </div>

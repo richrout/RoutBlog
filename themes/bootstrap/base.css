@@ -9,22 +9,3 @@
 @import url("bootstrap.min.css");
 @import url("bootstrap-responsive.min.css");
 @import url("blog.css");
-
-.smallestTag { font-size: xx-small; }
-.smallerTag { font-size: x-small; }
-.smallTag { font-size: small; }
-.mediumTag { font-size: medium; }
-.largeTag { font-size: large; }
-.largerTag { font-size: x-large; }
-.largestTag { font-size: xx-large; } 
-
-A, A:link, A:visited, A:active  { font-weight: bold; text-decoration: none; }
-
-body {
-	margin: 0;
-	padding: 0;
-	font-family: verdana, sans-serif;
-	font-size: 0.7em;
-}
-
-/* pre { white-space: normal; overflow: auto; } */

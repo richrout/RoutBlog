@@ -1,6 +1,7 @@
 <%@ Control Language="c#" AutoEventWireup="True" Codebehind="AdminNavBar.ascx.cs" Inherits="newtelligence.DasBlog.Web.AdminNavBar" TargetSchema="http://schemas.microsoft.com/intellisense/ie5" %>
-<div class="adminNavbarStyle" id="DIV1" runat="server">
-	<ul>		
+<div class="navbar" id="DIV1" runat="server">
+<div class="navbar-inner">
+	<ul class="nav">		
 		<li id="editEntry" class="first" runat="server">
 			<asp:HyperLink runat="server" NavigateUrl="EditEntry.aspx" id="hyperLinkEditEntry" Text='<%# resmgr.GetString("text_admin_add_entry")%>'>
 			</asp:HyperLink>
@@ -36,4 +37,5 @@
 		</li>
 		<%}%>
 	</ul>
+</div>
 </div>
