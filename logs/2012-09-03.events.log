@@ -1,0 +1,7 @@
+l2	time	2012-09-03T05:34:40	code	32000	message	<span>Application started</span>
+l2	time	2012-09-03T05:34:40	code	1120	message	<span>Report-Mailer Service Started</span>
+l2	time	2012-09-03T05:46:11	code	5001	message	<span>Audit: SecuritySuccess Login with username admin from ::1</span>
+l2	time	2012-09-03T05:50:37	code	1121	message	<span>Report-Mailer Service Shutdown</span>
+l2	time	2012-09-03T05:57:40	code	32000	message	<span>Application started</span>
+l2	time	2012-09-03T05:57:40	code	1120	message	<span>Report-Mailer Service Started</span>
+l2	time	2012-09-03T14:12:28	code	1121	message	<span>Report-Mailer Service Shutdown</span>
