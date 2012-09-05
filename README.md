@@ -19,3 +19,8 @@ Things to try
 5. Open a [Pull Request][1]
 6. Enjoy a refreshing Pepsi Cola and wait
 7. Add another step
+
+I added this
+------------
+
+Yes I did
