@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<links xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<link>
-		<name>Home</name>
-		<url>default.aspx</url>
-	</link>
-	<link>
-		<name>dasBlog</name>
-		<url>http://dasblog.info/</url>
-	</link>
-	<link>
-		<name>CodePlex</name>
-		<url>http://codeplex.com/dasBlog/</url>
-	</link>
-	<link>
-		<name>newtelligence AG</name>
-		<url>http://www.newtelligence.com/</url>
-	</link>
+<links xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <link>
+    <name>Home</name>
+    <url>default.aspx</url>
+  </link>
+  <link>
+    <name>Stackoverflow</name>
+    <url>http://stackoverflow.com/users/693829/richard-rout</url>
+  </link>
+  <link>
+    <name>dasBlog</name>
+    <url>http://dasblog.info/</url>
+  </link>
+  <link>
+    <name>Github</name>
+    <url>https://github.com/skideh/RoutBlog</url>
+  </link>
 </links>

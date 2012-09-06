@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DayExtra xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="urn:newtelligence-com:dasblog:runtime:data">
+  <Date>2012-09-05T18:00:00-06:00</Date>
+  <Comments>
+    <Comment>
+      <Content>This one has a comment!</Content>
+      <Created>2012-09-06T00:32:59.4675846-06:00</Created>
+      <Modified>2012-09-06T00:32:59.4675846-06:00</Modified>
+      <EntryId>bf34b1da-e25e-4492-9f7a-e0b72e6442ef</EntryId>
+      <TargetTitle>My Testing Entry</TargetTitle>
+      <TargetEntryId>88577FC6-F1DA-4B23-879E-4369A9CAC9CA</TargetEntryId>
+      <Author>Rich</Author>
+      <AuthorEmail />
+      <AuthorHomepage />
+      <AuthorIPAddress>::1</AuthorIPAddress>
+      <IsPublic>true</IsPublic>
+      <OpenId>false</OpenId>
+      <SpamState>NotChecked</SpamState>
+      <AuthorUserAgent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.83 Safari/537.1</AuthorUserAgent>
+    </Comment>
+  </Comments>
+  <Trackings />
+</DayExtra>

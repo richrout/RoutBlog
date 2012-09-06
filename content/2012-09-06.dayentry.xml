@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DayEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="urn:newtelligence-com:dasblog:runtime:data">
+  <Date>2012-09-05T18:00:00-06:00</Date>
+  <Entries>
+    <Entry>
+      <Content>This entry is also on this day and what is it to you?&lt;p&gt;&lt;/p&gt;</Content>
+      <Created>2012-09-05T23:29:14.675-06:00</Created>
+      <Modified>2012-09-05T23:42:29.424276-06:00</Modified>
+      <EntryId>a66a11f9-666b-4771-ba61-71f3a8c7d3ca</EntryId>
+      <Description />
+      <Title>My Second Entry</Title>
+      <Categories>dasBlog;coding</Categories>
+      <Author>admin</Author>
+      <IsPublic>true</IsPublic>
+      <Syndicated>true</Syndicated>
+      <ShowOnFrontPage>true</ShowOnFrontPage>
+      <AllowComments>true</AllowComments>
+      <Attachments />
+      <Crossposts />
+      <Latitude xsi:nil="true" />
+      <Longitude xsi:nil="true" />
+    </Entry>
+    <Entry>
+      <Content>What's up guys?!&lt;p&gt;&lt;/p&gt;&lt;div&gt;This is my testing entry and I would appreciate it if you could be nice to me about it.&lt;/div&gt;</Content>
+      <Created>2012-09-05T23:28:50.852-06:00</Created>
+      <Modified>2012-09-05T23:28:50.8524564-06:00</Modified>
+      <EntryId>88577fc6-f1da-4b23-879e-4369a9cac9ca</EntryId>
+      <Description />
+      <Title>My Testing Entry</Title>
+      <Categories />
+      <Author>admin</Author>
+      <IsPublic>true</IsPublic>
+      <Syndicated>true</Syndicated>
+      <ShowOnFrontPage>true</ShowOnFrontPage>
+      <AllowComments>true</AllowComments>
+      <Attachments />
+      <Crossposts />
+      <Latitude xsi:nil="true" />
+      <Longitude xsi:nil="true" />
+    </Entry>
+  </Entries>
+</DayEntry>

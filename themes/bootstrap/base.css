@@ -6,6 +6,16 @@
 	of the theme.
 */
 
-@import url("bootstrap.min.css");
-@import url("bootstrap-responsive.min.css");
+@import url("css/bootstrap.min.css");
+@import url("css/bootstrap-responsive.min.css");
 @import url("blog.css");
+
+.permalinkImageStyle {
+	margin-top: -2px;
+}
+
+.archiveLinkImageStyle {
+	padding: 0px 3px 10px 5px;
+	margin-top: 13px;
+	vertical-align: top;
+}

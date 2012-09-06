@@ -1,2 +1,4 @@
-<h2><%archiveLink%>&nbsp;<%longDate%></h2>
-<section><%Items%></section>
+<h3><%archiveLink%>&nbsp;<%longDate%></h3>
+<section>
+<%Items%>
+</section>
