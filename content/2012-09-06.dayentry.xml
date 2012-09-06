@@ -3,6 +3,24 @@
   <Date>2012-09-05T18:00:00-06:00</Date>
   <Entries>
     <Entry>
+      <Content>I guess this would be packaged up&lt;p&gt;&lt;/p&gt;</Content>
+      <Created>2012-09-06T01:19:25.9999651-06:00</Created>
+      <Modified>2012-09-06T01:19:25.9999651-06:00</Modified>
+      <EntryId>caec60e5-fc46-4f09-8709-e184d49a5cc9</EntryId>
+      <Description />
+      <Title>Yet Another Entry</Title>
+      <Categories>coding</Categories>
+      <Author>admin</Author>
+      <IsPublic>true</IsPublic>
+      <Syndicated>true</Syndicated>
+      <ShowOnFrontPage>true</ShowOnFrontPage>
+      <AllowComments>true</AllowComments>
+      <Attachments />
+      <Crossposts />
+      <Latitude xsi:nil="true" />
+      <Longitude xsi:nil="true" />
+    </Entry>
+    <Entry>
       <Content>This entry is also on this day and what is it to you?&lt;p&gt;&lt;/p&gt;</Content>
       <Created>2012-09-05T23:29:14.675-06:00</Created>
       <Modified>2012-09-05T23:42:29.424276-06:00</Modified>
@@ -23,11 +41,11 @@
     <Entry>
       <Content>What's up guys?!&lt;p&gt;&lt;/p&gt;&lt;div&gt;This is my testing entry and I would appreciate it if you could be nice to me about it.&lt;/div&gt;</Content>
       <Created>2012-09-05T23:28:50.852-06:00</Created>
-      <Modified>2012-09-05T23:28:50.8524564-06:00</Modified>
+      <Modified>2012-09-06T01:19:32.1913193-06:00</Modified>
       <EntryId>88577fc6-f1da-4b23-879e-4369a9cac9ca</EntryId>
       <Description />
       <Title>My Testing Entry</Title>
-      <Categories />
+      <Categories>dasBlog</Categories>
       <Author>admin</Author>
       <IsPublic>true</IsPublic>
       <Syndicated>true</Syndicated>
