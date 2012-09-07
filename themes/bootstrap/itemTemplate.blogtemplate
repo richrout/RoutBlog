@@ -1,4 +1,7 @@
-<h2><%PreviousLink("&laquo;&nbsp;",40)%><%MainPageentryLink("Main", "")%><%NextLink("&nbsp;&raquo;",40)%></h2>
+<ul class="nav nav-pills">
+<li><%PreviousLink("&laquo;&nbsp;",40)%></li>
+<li><%NextLink("&nbsp;&raquo;",40)%></li>
+</ul>
 <div>
 	<h3>
 		<%ItemTitle%>

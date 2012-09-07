@@ -14,7 +14,7 @@ function doSearch(searchString)
 }
 -->
 </script>
-<div class="searchContainerStyle">
-	<input id="searchString" onkeypress="javascript:if (event.keyCode == 13) { doSearch(searchString.value); return false; }" type="text" class="searchTextBoxStyle" />
-	<input id="searchButton" runat="server" type="button" value='<%# resmgr.GetString("text_search") %>' name='<%# resmgr.GetString("text_search") %>' onclick="doSearch(searchString.value);" class="searchButtonStyle" />
+<div class="input-append">
+	<input id="searchString" placeholder="Search" onkeypress="javascript:if (event.keyCode == 13) { doSearch(this.value); return false; }" type="text" class="span2 search-query" />
+	<input id="searchButton" runat="server" type="submit" value="Search" name='<%# resmgr.GetString("text_search") %>' onclick="doSearch(searchString.value);" class="btn" style="display: none;" />
 </div>

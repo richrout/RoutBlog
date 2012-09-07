@@ -8,7 +8,6 @@
 
 @import url("css/bootstrap.min.css");
 @import url("css/bootstrap-responsive.min.css");
-@import url("blog.css");
 
 .permalinkImageStyle {
 	margin-top: -2px;
@@ -19,3 +18,8 @@
 	margin-top: 13px;
 	vertical-align: top;
 }
+
+ { font-size: x-small; }
+.smallestTag, .smallerTag .smallTag { font-size: small; }
+.mediumTag, .largeTag { font-size: medium; }
+.largerTag, .largestTag { font-size: large; }
