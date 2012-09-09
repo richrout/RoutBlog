@@ -1,7 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <opml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <body>
+    <outline description="" title="1000 Awesome Things" xmlUrl="http://1000awesomethings.com/feed/" htmlUrl="http://1000awesomethings.com" />
+    <outline description="" title="Coding Horrors" xmlUrl="http://feeds.feedburner.com/codinghorror/" htmlUrl="http://www.codinghorror.com/blog/" />
+    <outline description="" title="Joel on Software" xmlUrl="http://www.joelonsoftware.com/rss.xml" htmlUrl="http://www.joelonsoftware.com/" />
     <outline description="" title="Scott Hanselman" xmlUrl="http://www.hanselman.com/blog/rss.ashx" htmlUrl="http://www.hanselman.com/blog/" />
     <outline description="" title="ScottGu" xmlUrl="http://weblogs.asp.net/scottgu/rss.aspx" htmlUrl="http://weblogs.asp.net/scottgu/" />
+    <outline description="" title="Stack Exchange" xmlUrl="http://blog.stackoverflow.com/feed/" htmlUrl="http://blog.stackoverflow.com/" />
+    <outline description="" title="The Daily WTF" xmlUrl="http://syndication.thedailywtf.com/TheDailyWtf" htmlUrl="http://thedailywtf.com/" />
+    <outline description="" title="The Oatmeal" xmlUrl="http://theoatmeal.com/feed/rss" htmlUrl="http://theoatmeal.com/" />
+    <outline description="" title="This Developers Life" xmlUrl="http://thisdeveloperslife.com/rss" htmlUrl="http://thisdeveloperslife.com/" />
+    <outline description="" title="xkcd" xmlUrl="http://xkcd.com/rss.xml" htmlUrl="http://xkcd.com/" />
   </body>
 </opml>

@@ -81,6 +81,19 @@
 		<div><%newtelligence.disclaimer()%> </div>
 		<h6><i class="icon-circle-arrow-right"></i> Powered by <a href="http://dasblog.codeplex.com/" target="_blank"><%radioBadge%></a>. Built with <a href="http://twitter.github.com/bootstrap/" target="_blank">Bootstrap</a>.</h6>
 	</footer>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+			<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=skideh"></script>
+	<script type="text/javascript">
+		$(function() {
+			$('[data-date]').each(function(i, e) {
+				var thisDate = new Date($(e).text());
+				$(e).text(thisDate.toDateString() + " " + thisDate.toLocaleTimeString()).attr('title', thisDate);
+			});
+			$('[data-collapse]').each(function(i, e) {
+				$(e).hide();
+			});
+		});
+	</script>
 </div>
 </body>
 </html>
